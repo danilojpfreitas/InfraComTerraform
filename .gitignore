@@ -1,5 +1,6 @@
-terraform.tfvars
-/lambda/python
-/lambda/app.py.zip
-/lambda/python.zip
-.terraform
+/AWS/terraform.tfvars
+/AWS/lambda/python
+/AWS/lambda/app.py.zip
+/AWS/lambda/python.zip
+/AWS/.terraform
+
