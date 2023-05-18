@@ -1,0 +1,5 @@
+terraform.tfvars
+/lambda/python
+/lambda/app.py.zip
+/lambda/python.zip
+.terraform
