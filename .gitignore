@@ -12,3 +12,6 @@
 /GCP/.terraform.lock.hcl
 /GCP/ssh_key.pub
 /GCP/.terraform.lock.hcl
+
+/Azure/.terraform.lock.hcl
+/Azure/.terraform
