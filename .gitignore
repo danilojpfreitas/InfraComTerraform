@@ -3,4 +3,12 @@
 /AWS/lambda/app.py.zip
 /AWS/lambda/python.zip
 /AWS/.terraform
+/AWS/.terraform.lock.hcl
+/AWS/terraform.tfstate.backup
 
+/GCP/values.auto.tfvars
+/GCP/stack-terraform-couse-da236c699e81.json
+/GCP/.terraform
+/GCP/.terraform.lock.hcl
+/GCP/ssh_key.pub
+/GCP/.terraform.lock.hcl
